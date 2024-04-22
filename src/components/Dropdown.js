@@ -3,9 +3,9 @@ const Dropdown = class {
   #elements;
 };
 
-const dropdown = class {
+const Test = class {
   #list;
   #elements;
 };
 
-export default Dropdown;
+export default { Dropdown, Test };
