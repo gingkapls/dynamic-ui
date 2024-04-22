@@ -1,3 +1,5 @@
+import './style.css';
+
 window.console.log('hello world');
 
 const hello = () => {
